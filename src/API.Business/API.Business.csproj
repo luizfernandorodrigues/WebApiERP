@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyVersion>1.2020.4.28</AssemblyVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\Compra\" />
+    <Folder Include="Models\Financeiro\ContasAPagar\" />
+    <Folder Include="Models\Financeiro\ContasAReceber\" />
+    <Folder Include="Models\Venda\" />
+  </ItemGroup>
+
+</Project>
